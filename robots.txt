@@ -1,4 +1,4 @@
-Sitemap: https://dario.com/sitemap.xml
+Sitemap: https://priv360.com/sitemap.xml
 User-Agent: ia_archiver
 Disallow: /
 User-agent: *
