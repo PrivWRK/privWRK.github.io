@@ -28,11 +28,11 @@ email_privacy: privacy@dario.com
 telephone_number:
 
 # search tracking id for dario.best check before moving to .com
-google_tracking_id: 
+google_tracking_id: UA-98131817-5
 
-# verify check before moving to .com
+# verify new priv360.com info
 webmaster_verifications:
-  google: G-384D33NCB2
+  google: 
   bing: 
   alexa:
   yandex:
